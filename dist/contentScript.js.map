@@ -1,0 +1,1 @@
+{"version":3,"file":"contentScript.js","mappings":";;;;;AAAA;AACA;AACA","sources":["webpack://beeyond/./src/contentScript/contentScript.ts"],"sourcesContent":["window.onload = () => {\r\n  console.log(\"Content script init\")\r\n}"],"names":[],"sourceRoot":""}
