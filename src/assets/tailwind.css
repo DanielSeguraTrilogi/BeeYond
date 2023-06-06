@@ -2,8 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+:root{
+  --honey-01:#ffd69c;
+  --honey-02:#ffb825;
+  --honey-03:#ff9624;
+  --honey-04:#db6f02;
+  --honey-05:#8e4200;
+  --honey-06:#753600;
+  --honey-07:#582900;
+  --honey-08:#4e2400;
+  --honey-09:#341800;
+}
+
 body{
   height: 400px;
   width: 400px;
-  background-color: #f4a460;
+  background-color: var(--honey-01);
+  color: var(--honey-06);
+  font-family: sans-serif;
 }
+

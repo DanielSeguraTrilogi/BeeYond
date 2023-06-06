@@ -25,5 +25,8 @@
       ]
     }
   ],
-  "options_page": "/dist/options.html"
+  "options_page": "/dist/options.html",
+  "permissions": [
+    "storage"
+  ]
 }
